@@ -1,5 +1,11 @@
 Sea eagles
 Loons
+--------
+  Yellow-billed Loon
+  Great Northen Loon
+  Red-throated Loon
+  Black-throated Loon
+  Pacific Loon
 Albatrosses
 Petrels & Shearwaters
 Storm-petrels
